@@ -1,0 +1,3 @@
+C:\Users\adwivedi\OneDrive - Itron\Desktop\RnD\ContainerizedProxyService\ContainerizedApi\obj\Debug\netcoreapp2.1\ContainerizedApi.csproj.CoreCompileInputs.cache
+C:\Users\adwivedi\OneDrive - Itron\Desktop\RnD\ContainerizedProxyService\ContainerizedApi\obj\Debug\netcoreapp2.1\ContainerizedApi.AssemblyInfoInputs.cache
+C:\Users\adwivedi\OneDrive - Itron\Desktop\RnD\ContainerizedProxyService\ContainerizedApi\obj\Debug\netcoreapp2.1\ContainerizedApi.AssemblyInfo.cs
